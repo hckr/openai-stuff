@@ -1,0 +1,3 @@
+chatgpt-file-downloader/downloads/*
+.DS_Store
+*.pyc
